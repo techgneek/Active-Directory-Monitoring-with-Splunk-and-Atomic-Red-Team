@@ -27,8 +27,8 @@ This project simulates an **Active Directory enterprise environment** using **Wi
 - [2. Installing Splunk on Ubuntu OS](#2-installing-splunk-on-ubuntu-os)
 - [3. Installing Windows Server 2022 & Active Directory](#3-installing-windows-server-2022--active-directory)
 - [4. Configuring Sysmon & Placing `inputs.conf` in Splunk](#4-configuring-sysmon--placing-inputsconf-in-splunk)
-- [5. Setting Up Active Directory & Domain Controller](#5-setting-up-active-directory-&-domain-controller)
-- [6. Simulating RDP Brute-Force Attack with Kali Linux & Atomic Red Team Tests](#6-simulating-rdp-brute-force-attack-with-kali-linux-&-atomic-red-team-tests)
+- [5. Setting Up Active Directory & Domain Controller](#5-setting-up-active-directory--domain-controller)
+- [6. Simulating RDP Brute-Force Attack with Kali Linux & Atomic Red Team Tests](#6-simulating-rdp-brute-force-attack-with-kali-linux--atomic-red-team-tests)
 - [7. Conclusion & Key Takeaways](#7-conclusion--key-takeaways)
 
 ---
